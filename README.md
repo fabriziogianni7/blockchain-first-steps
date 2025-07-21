@@ -35,6 +35,7 @@ This is a collection of interactive courses to start diving into web3 developmen
 - **[Blockchain basics by Cyfrin Updraft](https://updraft.cyfrin.io/courses/blockchain-basics)**: If you want to get really good at smart contract developmnet, this is the first course you want to follow. It starts from the basics and get you tothemooon! Cyfrin gives also certificates of completion after completing a course, so it's great if you're looking for a job.
 - **[Ethereum Developer Bootcamp by Alchemy](https://www.alchemy.com/university/courses/ethereum)**: A complete course on blockchain development. Learn to build full stack decentralized applications and get certified by alchemy.
 - **[Web2 to Web3 YT series by BuidlGuidl](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1)**: if you already got experience in web2 this is what you want to follow if you want to learn full stack web3. They start with theory and concepts and they dive into [speedrunethereum](https://speedrunethereum.com/) challenges.
+- **Explain Me Like I'm 5 by [Suhail](https://x.com/SuhailKakar)**: A curated list of web3 concepts and tools explained in a simple diagram. Well recommended to have it always handy
 
 
 ## Get Your Hands Dirty
@@ -78,7 +79,10 @@ The best way to understand Ethereum and the blockchain is to be a user. Play wit
 1. [Vitalik Buterin](https://x.com/VitalikButerin)
 2. [Limone.eth](https://x.com/limone_eth)
 3. [Matteoikari.eth](https://x.com/matteoikari)
-4. 
+4. [Eda](https://x.com/edatweets_)
+5. [DappaDan](https://x.com/DAppaDanDev)
+6. [Nader](https://x.com/dabit3)
+7. [Suhail](https://x.com/SuhailKakar)
 
 
 ## License
