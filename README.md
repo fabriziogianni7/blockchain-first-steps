@@ -2,88 +2,81 @@
 
 Welcome to the **Ethereum First Steps Repository**, a curated collection of resources, tools, and tutorials to help developers dive into Web3, blockchain, and decentralized application (dApp) development. Whether you're a beginner learning about blockchain or an experienced developer exploring advanced Web3 concepts, this repository is your one-stop shop for getting started and building in the decentralized world.
 
-🐺🐺 _crafted by [Urbe.eth](https://urbe.build/) developers._ 🐺🐺
-
+🐺🐺 *Crafted by [Urbe.eth](https://urbe.build/) developers.* 🐺🐺
 
 ## Table of Contents
 - [First Steps](#first-steps)
-- [Courses For Beginners](#courses-for-beginners)
+- [Courses for Beginners](#courses-for-beginners)
 - [Get Your Hands Dirty](#get-your-hands-dirty)
 - [Advanced Topics](#advanced-topics)
 - [Tools](#tools)
-- [Dapps](#dapps)
-- [Interesting People To Follow](#interesting-people-to-follow)
+- [DApps](#dapps)
+- [Interesting People to Follow](#interesting-people-to-follow)
 - [License](#license)
 
-
 ## First Steps
-Start here to understand the core concepts of blockchain, decentralization, and Web3 development. These resources are beginner-friendly and provide a solid foundation to start learning Ethereum. 
+Start here to understand the core concepts of blockchain, decentralization, and Web3 development. These resources are beginner-friendly and provide a solid foundation for learning Ethereum.
 
-- **[Ethereum.org - What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)**: [ARTICLE] Official guide to Ethereum, covering blockchain basics principles. The article explains things like What is a blockchain, What can Ethereum do, the difference between Ethereum and Bitcoin and more! Definitely the first thing you want to read.
-- **[What is Ethereum? A Beginner's Explanation in Plain English](https://www.youtube.com/watch?v=jxLkbJozKbY)**: [VIDEO] Old but gold, this video starts from Bitcoin to explain how Ethereum was born and expand about Ethereum structure and smart contracts. good for an overview.
-- **[Intro on smart contracts](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)**: [ARTICLE] Intro to smart contracts. That's the solidity documentation website, feel free to go on and read other things on that website like [this example of a simple smart contract](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#a-simple-smart-contract) and [this intro to the Ethereum Virtual Machine](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
-- **[What is a wallet?](https://ethereum.org/en/wallets/)**: [ARTICLE] an overview on what are wallets, and what are they for.
-- **[What is Gas in Blockchains?](https://www.youtube.com/watch?v=Yh8cHUB-KoU)**: [VIDEO] Great visual explaination of the concept of gas and gas fees in the blockchain. 
-- **[Blockchain Glossary](https://www.cyfrin.io/glossary)**: [GLOSSARY] If you're unsure about any term used in the blockchain, visit this glossary.
-- **[Finematics on Youtube](https://www.youtube.com/@Finematics/videos)**: [YT CHANNEL] This channel explain complex blockchain concepts in a visual and easy way.
+- **[Ethereum.org - What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)** *[Article]*: Official guide to Ethereum, covering blockchain basics and principles. It explains topics like what a blockchain is, what Ethereum can do, the difference between Ethereum and Bitcoin, and more. A must-read for beginners.
+- **[What is Ethereum? A Beginner's Explanation in Plain English](https://www.youtube.com/watch?v=jxLkbJozKbY)** *[Video]*: An older but excellent video starting from Bitcoin to explain how Ethereum was created and its structure, including smart contracts. Great for an overview.
+- **[Introduction to Smart Contracts](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)** *[Article]*: Introduction to smart contracts from the Solidity documentation website. Explore additional resources like [this example of a simple smart contract](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#a-simple-smart-contract) and [this introduction to the Ethereum Virtual Machine](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6).
+- **[What is a Wallet?](https://ethereum.org/en/wallets/)** *[Article]*: An overview of wallets and their purpose in Ethereum.
+- **[What is Gas in Blockchains?](https://www.youtube.com/watch?v=Yh8cHUB-KoU)** *[Video]*: A great visual explanation of the concept of gas and gas fees in blockchain.
+- **[Blockchain Glossary](https://www.cyfrin.io/glossary)** *[Glossary]*: A comprehensive glossary for blockchain terms, perfect for clarifying unfamiliar concepts.
+- **[FinソーFinematics on YouTube](https://www.youtube.com/@Finematics/videos)** *[YouTube Channel]*: A channel that explains complex blockchain concepts in a visual and accessible way.
 
+## Courses for Beginners
+This is a collection of interactive courses to start diving into Web3 development.
 
-## Courses For Beginners
-This is a collection of interactive courses to start diving into web3 development.
-
-- **[Cryptozombies - Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/solidity)**: Old but gold! This is a fun and very easy tutorial explaining how to wirte smart contracts. Many great developers started here (Me for example lol)
-- **[Blockchain basics by Cyfrin Updraft](https://updraft.cyfrin.io/courses/blockchain-basics)**: If you want to get really good at smart contract developmnet, this is the first course you want to follow. It starts from the basics and get you tothemooon! Cyfrin gives also certificates of completion after completing a course, so it's great if you're looking for a job.
-- **[Ethereum Developer Bootcamp by Alchemy](https://www.alchemy.com/university/courses/ethereum)**: A complete course on blockchain development. Learn to build full stack decentralized applications and get certified by alchemy.
-- **[Web2 to Web3 YT series by BuidlGuidl](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1)**: if you already got experience in web2 this is what you want to follow if you want to learn full stack web3. They start with theory and concepts and they dive into [speedrunethereum](https://speedrunethereum.com/) challenges.
-- **[Explain Me Like I'm 5](https://www.web3forall.xyz/) by [Suhail](https://x.com/SuhailKakar)**: A curated list of web3 concepts and tools explained in a simple diagram. Well recommended to have it always handy
-
+- **[CryptoZombies - Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/solidity)** *[Course]*: A fun and accessible tutorial on writing smart contracts in Solidity. Many great developers, including myself, started here.
+- **[Blockchain Basics by Cyfrin Updraft](https://updraft.cyfrin.io/courses/blockchain-basics)** *[Course]*: A comprehensive course for mastering smart contract development, starting from the basics and progressing to advanced topics. Cyfrin offers certificates of completion, ideal for job seekers.
+- **[Ethereum Developer Bootcamp by Alchemy](https://www.alchemy.com/university/courses/ethereum)** *[Course]*: A complete course on blockchain development, teaching full-stack decentralized applications with certification from Alchemy.
+- **[Web2 to Web3 YouTube Series by BuidlGuidl](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1)** *[Video Series]*: For developers with Web2 experience, this series covers theory, concepts, and the [SpeedrunEthereum](https://speedrunethereum.com/) challenges for full-stack Web3 development.
+- **[Explain Me Like I'm 5](https://www.web3forall.xyz/)** *[Resource]*: A curated list of Web3 concepts and tools explained in simple diagrams, curated by [Suhail](https://x.com/SuhailKakar). Highly recommended for quick reference.
 
 ## Get Your Hands Dirty
-The best way to learn things is doing things. Get your hands dirty, NOW!
+The best way to learn is by doing. Start experimenting with these platforms now!
 
-- **[Speedrunethereum by BuidlGuidl](https://speedrunethereum.com/)**: A set of challenges from [BuildGuidl](https://buidlguidl.com/). Create things like an NFT deployer, staking app, DEX and more complex stuff like a prediction market or over-collateralized lending platform. If you truly go trough all the projects, it means you will be able to build anything you want. In the challenges, they make you use [ScaffoldETH](https://scaffoldeth.io/), a set of tools to kickstart any project on Ethereum.
-- **[Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/level/0x7E0f53981657345B31C59aC44e9c21631Ce710c7)**: A set of challenges focused on smart contracts. They start easy with things like connect-the-wallet challenge and the more you go on the harder those challenges become, until getting to "hack" a smart contract.
-
+- **[SpeedrunEthereum by BuidlGuidl](https://speedrunethereum.com/)** *[Challenges]*: A set of challenges from [BuidlGuidl](https://buidlguidl.com/) to build projects like NFT deployers, staking apps, DEXes, and advanced applications like prediction markets or over-collateralized lending platforms. Uses [ScaffoldETH](https://scaffoldeth.io/) to kickstart Ethereum projects.
+- **[Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/level/0x7E0f53981657345B31C59aC44e9c21631Ce710c7)** *[Challenges]*: Smart contract challenges starting with simple tasks like wallet connections and progressing to advanced security challenges like hacking contracts.
 
 ## Advanced Topics
-Read/watch these resources if you have a decent understanding of what the blockchain is and if you already experimented with solidity and built some little dapp. 
+Explore these resources if you have a solid understanding of blockchain, have experimented with Solidity, and built small dApps.
 
-- **[Blocks In Ethereum](https://ethereum.org/en/developers/docs/blocks/)**: [ARTICLE] In-depth explaination of the concept of block in the Ethereum blockchain
-- **[Proof of Stake vs. Proof of Work Explained](https://www.youtube.com/watch?v=TcYdEAWch_4)**: [VIDEO] explaination of the 2 most common consensus mechanisms in blockchains. Watch this if you're very interested in knowing how blockchains agree on blocks creation
-- **[What's a L2 Blockchain](https://chain.link/education-hub/what-is-layer-2)**: [ARTICLE] What is a L2 (Layer 2) blockchain explained very well.
-- **[Ethereum Rollups (L2 explainer)](https://www.youtube.com/watch?v=7pWxCklcNsU)**: [VIDEO] A great visual explaination of rollups (Layer 2 Blockchains).
-- **[Intro To Zero Knowledge Proofs](https://chain.link/education/zero-knowledge-proof-zkp)**: [ARTICLE] Introduction to the general concept of zkp (zero knowledge proof). ZKPs are applied to some L2 blockchains to allow them to scale (be faster and cheaper). ZKPs are used in some blockchain protocols like [tornado cash](https://tornado.cash/). It's a bit complex, recommended if .
-
+- **[Blocks in Ethereum](https://ethereum.org/en/developers/docs/blocks/)** *[Article]*: In-depth explanation of blocks in the Ethereum blockchain.
+- **[Proof of Stake vs. Proof of Work Explained](https://www.youtube.com/watch?v=TcYdEAWch_4)** *[Video]*: Explanation of the two most common consensus mechanisms in blockchains, ideal for understanding block creation.
+- **[What is a Layer 2 Blockchain?](https://chain.link/education-hub/what-is-layer-2)** *[Article]*: A clear explanation of Layer 2 blockchains.
+- **[Ethereum Rollups (Layer 2 Explainer)](https://www.youtube.com/watch?v=7pWxCklcNsU)** *[Video]*: A visual explanation of rollups, a key Layer 2 scaling solution.
+- **[Introduction to Zero Knowledge Proofs](https://chain.link/education/zero-knowledge-proof-zkp)** *[Article]*: Introduction to zero-knowledge proofs (ZKPs), used in Layer 2 scaling solutions and protocols like [Tornado Cash](https://tornado.cash/). Recommended if you’re interested in advanced cryptography.
 
 ## Tools
-The right tools are essential for Web3 development. Below are the best tools and frameworks for writing, testing, and deploying smart contracts and dApps, along with setup guides.
-- **[Hardhat](https://hardhat.org/)**: Ethereum development environment to build, test and deploy smart contract using Solidity and JS.
-- **[Foundry](https://getfoundry.sh/)**: One of the best and fastest framework to build, test and deploy smart contract using just Solidity. Widely used by professionals ans security researchers.
-- **[ScaffoldETH](https://scaffoldeth.io/)**: A complete set of tools to build fully decentralized applications on Ethereum. Great for experimenting and learning Web3 full stack development
+The right tools are essential for Web3 development. Below are the best tools and frameworks for writing, testing, and deploying smart contracts and dApps.
 
+- **[Remix IDE](https://remix.ethereum.org/)** *[Tool]*: A browser-based IDE for writing, compiling, and deploying smart contracts on any chain, with templates for standards like ERC-20.
+- **[Hardhat](https://hardhat.org/)** *[Tool]*: Ethereum development environment for building, testing, and deploying smart contracts using Solidity and JavaScript.
+- **[Foundry](https://getfoundry.sh/)** *[Tool]*: A fast, Solidity-based framework for building, testing, and deploying smart contracts, widely used by professionals and security researchers.
+- **[ScaffoldETH](https://scaffoldeth.io/)** *[Tool]*: A complete set of tools for building full-stack decentralized applications on Ethereum, great for experimentation and learning.
 
-## Dapps
-The best way to understand Ethereum and the blockchain is to be a user. Play with these 7 wallets/dapps/protocols to practice a little bit how to interact with the blockchain and what kind of applications are built on ethereum
+## DApps
+The best way to understand Ethereum and blockchain is to be a user. Explore these wallets, dApps, and protocols to practice interacting with the blockchain and discover Ethereum applications.
 
-1. **Before going on, you need a wallet dude**. [Metamask](https://metamask.io/) is the most common wallet. Other amazing wallets are [Rabby](https://rabby.io/) or [Phantom](https://phantom.com/).
-2. **Buy some cryptocurrency before starting**. [Base App](https://www.coinbase.com/it/wallet) (previously Coinbase Wallet) is a wallet that allow you to buy cryptocurrencies and have a smooth onboarding. Others are [MoonPay](https://www.moonpay.com/it) and you can also use [PayPal](https://www.paypal.com/us/digital-wallet/manage-money/crypto)
-3. **Swap baby!** [Uniswap](https://app.uniswap.org/swap) is a decentralized exchange allowing you to swap cryptocurrencies using liquidity pools. uniswap have different versions, you can choose which to use. You can also put there liquidity and earn fees on other people's swaps.
-4. **Buy NFT and call your lambo dealer**. [OpenSea](https://opensea.io/) is the biggest NFT marketplace on earth. buy some NFT and watch their price go up to the moon or down to the hell. Good for experimenting about how NFT buy/sell/royalty work.
-5. **Get a unique Ethereum handle**. [ENS](https://opensea.io/) (Ethereum Name Service) allow you to buy a name and tie it to an ethereum address. This way other users can send you tokens just using your handle.
-6. **Lend and borrow money... without a bank**. [Aave](https://aave.com/) is a lending protocol. You can put liquidity and earn fees or borrow tokens by giving other tokens as a deposit.
-7. **Make some bet on any event in the future**. [Polymarket](https://polymarket.com/) allow you to bet on possible outcomes of real world events. For instance: [Will Elon register the America Party by...?](https://polymarket.com/event/will-elon-register-the-america-party-by?tid=1753105753082)
-8. **Subscribe to a decentralized social network and join the web3 community**. Go to [Farcaster](https://farcaster.xyz/) and make your decentralized social network profile. 
+1. **Get a Wallet**: [MetaMask](https://metamask.io/) is the most popular wallet. Other great options include [Rabby](https://rabby.io/) and [Phantom](https://phantom.app/).
+2. **Buy Cryptocurrency**: [Base App](https://www.coinbase.com/it/wallet) (formerly Coinbase Wallet) offers a smooth onboarding experience for buying cryptocurrencies. Alternatives include [MoonPay](https://www.moonpay.com/it) and [PayPal](https://www.paypal.com/us/digital-wallet/manage-money/crypto).
+3. **Swap Cryptocurrencies**: [Uniswap](https://app.uniswap.org/swap) is a decentralized exchange for swapping cryptocurrencies using liquidity pools. Uniswap has multiple versions; choose the one that suits you. You can also provide liquidity and earn fees.
+4. **Buy NFTs**: [OpenSea](https://opensea.io/) is the largest NFT marketplace. Experiment with buying and selling NFTs to understand their mechanics, though prices can be volatile.
+5. **Get an Ethereum Name**: [ENS](https://ens.domains/) (Ethereum Name Service) allows you to buy a unique name tied to your Ethereum address, simplifying token transfers.
+6. **Lend and Borrow**: [Aave](https://aave.com/) is a lending protocol where you can deposit tokens to earn fees or borrow tokens using other tokens as collateral.
+7. **Bet on Events**: [Polymarket](https://polymarket.com/) allows you to bet on real-world event outcomes, like [Will Elon Register the America Party?](https://polymarket.com/event/will-elon-register-the-america-party-by?tid=1753105753082).
+8. **Join a Decentralized Social Network**: Create a profile on [Farcaster](https://farcaster.xyz/) to join the Web3 community on a decentralized social platform.
 
-
-## Interesting People To Follow
-1. [Vitalik Buterin](https://x.com/VitalikButerin) 
-2. [Limone.eth](https://x.com/limone_eth) 
-3. [Matteoikari.eth](https://x.com/matteoikari) 
-4. [Eda](https://x.com/edatweets_)
-5. [DappaDan](https://x.com/DAppaDanDev)
-6. [Nader](https://x.com/dabit3)
-7. [Suhail](https://x.com/SuhailKakar)
-
+## Interesting People to Follow
+- [Vitalik Buterin](https://x.com/VitalikButerin)
+- [Limone.eth](https://x.com/limone_eth)
+- [Matteoikari.eth](https://x.com/matteoikari)
+- [Eda](https://x.com/edatweets_)
+- [DappaDan](https://x.com/DAppaDanDev)
+- [Nader](https://x.com/dabit3)
+- [Suhail](https://x.com/SuhailKakar)
 
 ## License
 This repository is licensed under the [MIT License](LICENSE), ensuring open collaboration for the Web3 community.
