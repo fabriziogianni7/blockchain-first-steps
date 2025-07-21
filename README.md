@@ -76,9 +76,9 @@ The best way to understand Ethereum and the blockchain is to be a user. Play wit
 
 
 ## Interesting People To Follow
-1. [Vitalik Buterin](https://x.com/VitalikButerin)
-2. [Limone.eth](https://x.com/limone_eth)
-3. [Matteoikari.eth](https://x.com/matteoikari)
+1. [Vitalik Buterin](https://x.com/VitalikButerin) 
+2. [Limone.eth](https://x.com/limone_eth) 
+3. [Matteoikari.eth](https://x.com/matteoikari) 
 4. [Eda](https://x.com/edatweets_)
 5. [DappaDan](https://x.com/DAppaDanDev)
 6. [Nader](https://x.com/dabit3)
