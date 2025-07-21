@@ -12,6 +12,7 @@ Welcome to the **Ethereum First Steps Repository**, a curated collection of reso
 - [Tools](#tools)
 - [DApps](#dapps)
 - [Interesting People to Follow](#interesting-people-to-follow)
+- [Community and Opportunities](#community-and-opportunities)
 - [License](#license)
 
 ## First Steps
@@ -77,6 +78,19 @@ The best way to understand Ethereum and blockchain is to be a user. Explore thes
 - [DappaDan](https://x.com/DAppaDanDev)
 - [Nader](https://x.com/dabit3)
 - [Suhail](https://x.com/SuhailKakar)
+
+
+## Community and Opportunities
+Join the Web3 community and explore opportunities like hackathons and grants to grow your skills and network.
+
+- **[ETHGlobal](https://ethglobal.com/)** *[Hackathons]*: They organize the biggest hackathons all around the world. If you are an ETHGlobal winner you can be considered an OG.
+- **[DoraHacks](https://dorahacks.io/hackathon)** *[Hackathons]*: This platform offers a huge variety of hackathons (online & IRL) on Ethereum and other platforms.
+- **[ETHRome](https://www.ethrome.org/)** *[Hackathons]*: The one and only IRL hackathon in Italy. Happening in Rome on 17-19 October 25. Join the hack, become a web3 empereor and meet brilliant people.
+- **[Urbe Village](https://urbe.build/urbe-village)** *[IRL Community Events]*: A web3 Pop-up city filled with web3 [events, workshops and italian dinners](https://urbe.build/#events). Happening in Rome on 5-19 October.
+- **[Devconnect Buenos Aires](https://devconnect.org/)** *[IRL Community Events]*: Connect with other web3 builders and discover the future of the ethereum ecosystem.
+- **[Gitcoin Grants](https://gitcoin.co/)** *[Funding]*: Crowdfund your Web3 projects or contribute to open-source initiatives.
+- **[Ethereum Foundation Grants](https://esp.ethereum.foundation/)** *[Funding]*: Apply for funding to support Ethereum ecosystem projects.
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE), ensuring open collaboration for the Web3 community.
