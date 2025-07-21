@@ -1,4 +1,4 @@
-# Web3 Developer Hub
+# Ethereum First Steps
 
 Welcome to the **Ethereum First Steps Repository**, a curated collection of resources, tools, and tutorials to help developers dive into Web3, blockchain, and decentralized application (dApp) development. Whether you're a beginner learning about blockchain or an experienced developer exploring advanced Web3 concepts, this repository is your one-stop shop for getting started and building in the decentralized world.
 
