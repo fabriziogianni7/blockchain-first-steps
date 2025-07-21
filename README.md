@@ -13,7 +13,6 @@ Welcome to the **Ethereum First Steps Repository**, a curated collection of reso
 - [Tools](#tools)
 - [Dapps](#dapps)
 - [Interesting People To Follow](#interesting-people-to-follow)
-- [Contributing](#contributing)
 - [License](#license)
 
 
@@ -80,10 +79,6 @@ The best way to understand Ethereum and the blockchain is to be a user. Play wit
 2. [Limone.eth](https://x.com/limone_eth)
 3. [Matteoikari.eth](https://x.com/matteoikari)
 4. 
-
-
-## Contributing
-We welcome contributions to make this repository even better! Want to add a new resource, fix a bug, or share a tutorial? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 
 ## License
