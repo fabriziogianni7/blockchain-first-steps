@@ -16,16 +16,9 @@ Welcome to the **Blockchain First Steps**, a curated collection of resources, to
 ## First Steps
 New to Web3? Start here to understand the core concepts of blockchain, decentralization, and Web3 development. These resources are beginner-friendly and provide a solid foundation. 
 
-- **[Ethereum.org - What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)**: [ARTICLE] Official guide to Ethereum, covering blockchain basics principles. The article explains:
-	- What is a blockchain
-  - What can Ethereum do
-  - What is a cryptocurrency
-  - Why using Ethereum and Who runs it
-  - What are smart contracts
-  - What is the difference between Ethereum and Bitcoin
-  - and more!
+- **[Ethereum.org - What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)**: [ARTICLE] Official guide to Ethereum, covering blockchain basics principles. The article explains things like What is a blockchain, What can Ethereum do, the difference between Ethereum and Bitcoin and more! Definitely the first thing you want to read.
 - **[What is Ethereum? A Beginner's Explanation in Plain English](https://www.youtube.com/watch?v=jxLkbJozKbY)**: [VIDEO] Old but gold, this video starts from Bitcoin to explain how Ethereum was born and expand about Ethereum structure and smart contracts. good for an overview.
-- **[Intro on smart contracts]([https://ethereum.org/en/smart-contracts/](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)**: [ARTICLE] Intro to smart contracts. That's the solidity documentation website, feel free to go on and read other things on that website like [this example of a simple smart contract](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#a-simple-smart-contract) and [this intro to the Ethereum Virtual Machine](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
+- **[Intro on smart contracts](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)**: [ARTICLE] Intro to smart contracts. That's the solidity documentation website, feel free to go on and read other things on that website like [this example of a simple smart contract](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#a-simple-smart-contract) and [this intro to the Ethereum Virtual Machine](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
 - **[What is a wallet?](https://ethereum.org/en/wallets/)**: [Article] an overview on what are wallets, and what are they for. Another article from coinbase here
 - **[Blockchain Glossary](https://www.cyfrin.io/glossary)**: If you're unsure about any term used in the blockchain, visit this glossary.
 
